@@ -6,7 +6,7 @@ computer = random.randint(1, 3)
 
 your = (input("Enter your choice :"))
 
-reverseDict = {1:"Rock", 2:"Paper", 3:"Ciser"}
+reverseDict = {1:"Rock", 2:"Paper", 3:"Scissor"}
 yourDict = {"r":1, "p":2, "c":3}
 
 yourstr = yourDict[your]
